@@ -9,6 +9,21 @@ The project is divided into three parts that are:
 2. Building a web application on which we can mount our model. 
 3. Lastly deploying the web application on Heroku. 
 
+
+## Technology
+1. Python
+2. NLTK
+3. Sklearn
+4. Django
+
+## Run
+1. Create the copy of the project.
+2. Open command prompt and change your current path to folder where you can find `app.py` file.
+3. Create environment by command given below -$ `conda create -name <environment name>`
+4. Activate environment by command as follows - $ `conda activate <environment name>`
+5. Use command below to install required dependencies - $ `python -m pip install -r requirements.txt`
+6. Run application by command - $ `python manage.py runserver`. You will get url copy it and paste in browser.
+7. You can type in a sentence to test.
 ## Accuracy
 ![image](https://user-images.githubusercontent.com/50231750/203810812-7005f845-87c3-414e-af6e-c511eb3952ef.png)
 
