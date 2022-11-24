@@ -9,3 +9,8 @@ The project is divided into three parts that are:
 2. Building a web application on which we can mount our model. 
 3. Lastly deploying the web application on Heroku. 
 
+## Accuracy
+![image](https://user-images.githubusercontent.com/50231750/203810812-7005f845-87c3-414e-af6e-c511eb3952ef.png)
+
+## Prediction
+![image](https://user-images.githubusercontent.com/50231750/203810892-63e879fe-13ed-4d94-8984-f78e9b52eacb.png)
